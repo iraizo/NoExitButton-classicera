@@ -1,0 +1,5 @@
+## Interface: 11403
+## Title: No Exit Button
+## Author: raizo
+## Version: 1.0
+NoExit.lua
